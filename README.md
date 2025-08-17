@@ -35,14 +35,12 @@
 
 ## Installation :
 
-1. Clone the repository : $ git clone https://github.com/SuhasKamate/Business_Management_Project.git <br>
+1. Clone the repository : $ git clone  https://github.com/githimansh/Bussiness_Management_project/edit/main/README.md <br>
 
 2. Import the project inside STS/Eclipse : <br>
      - Open STS/Eclipse > file > import > maven > existing project > browse > finish . <br>
      
 3. Make sure you are in the Business_Management_Project directory. <br>
-
-![packageExplorer](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/3ea1eb7f-8e49-4b76-96e4-798b6b8e8715)
 
 
 4.Configure the database connection is application.properties (check the Database section for more information). <br>
